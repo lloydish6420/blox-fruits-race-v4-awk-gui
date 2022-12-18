@@ -1,4 +1,4 @@
--[[
+--[[
 obsfucated by xerohub LUA. Premium Lua obfuscation
 https://discord.gg/h8gmFH2Fnf to get key
 ]]--
